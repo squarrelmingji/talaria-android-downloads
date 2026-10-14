@@ -8,7 +8,7 @@ Hermes features require connected Talaria environment with separately installed 
 
 Current Hermes limits: bot Files/Terminal and bot rename/delete unavailable; memory and user entries view-only. Persistent model changes and adding provider keys supported only for default bot. Cloning copies supported settings, not credentials.
 
-Android 8 or newer. Not distributed through Google Play. Experimental builds provided “as is”, without warranty. Bugs and incomplete features expected. No public support commitment.
+Android 8 or newer, 64-bit ARM phones only. Not distributed through Google Play. Experimental builds provided “as is”, without warranty. Bugs and incomplete features expected. No public support commitment.
 
 Download latest APK from Releases. Install first GitHub build once; Android asks to allow installs from your browser. Then use Settings → About → Check for updates. No GitHub download token required. Updates use newest successfully published Talaria commit build. Android asks you to confirm every update.
 
